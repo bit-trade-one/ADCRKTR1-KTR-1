@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 # Site Settings
 locale                   : "ja-JP"  
 title                    : "KTR-1＿WEB教材"
+description              : "KTR-1のWEB教材です。"
+logo                     : /assets/img/logo.png
