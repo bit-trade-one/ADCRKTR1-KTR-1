@@ -5,7 +5,7 @@ KTR-1はProMicro・電池ボックス・各種入出力を搭載したarduino制
 現在arduinoの使い方がわからない方もKTR-1で遊んでもらって、arduino使いになっていただければ嬉しいです。  
 
 ## コンテンツ一覧
-- 1.
+- [1.](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/docs/1.md)
  -
 
 ## リンク集
