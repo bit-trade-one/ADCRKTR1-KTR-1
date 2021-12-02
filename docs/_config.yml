@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 locale                   : "ja-JP"  
 title                    : "KTR-1 WEB教材"
 description              : "KTR-1のWEB教材です。"
-logo                     : https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/docs/assets/img/logo.png
+logo                     : https://raw.githubusercontent.com/bit-trade-one/ADCRKTR1-KTR-1/master/docs/assets/img/logo.png
