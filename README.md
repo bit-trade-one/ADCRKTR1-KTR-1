@@ -1,6 +1,7 @@
-# -ADXXXXX-Template
+# ADCRKTR1-KTR-1
 
-## ここに見出し
+
+## (工事中(GitHubページ編集中に付きパプリック))
 
 ![タイトル画像のURLを右のカッコに]()
 
@@ -49,11 +50,11 @@ exp.
 
 # [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
 
+## [WEB教材](https://bit-trade-one.github.io/ADCRKTR1-KTR-1/)
+
 ## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
-## [アプリケーションソフト](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-## [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+## [arduinoスケッチ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
 
 ## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
 
@@ -61,17 +62,13 @@ exp.
 
 ### [サンプルコード](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
 
-### [アプリケーションソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
-
-### [ファームウェアソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
-
 ### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
 
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
+### [回路図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/Schematics/KTR-1%E5%9B%9E%E8%B7%AF%E5%9B%B3V1.1.pdf)
 
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
 
-
+<!--
 ## 作例
 
 [BTO公式]()  
@@ -84,15 +81,18 @@ exp.
 
 [ラズパイマガジンXX年Y月号]()  
 [Pc Watch]()
-
+-->
 ## 製品仕様
-    【対応OS】Windows7以降
-    【サイズ】W16×D20×H5mm
-    【重量】約1g
-    【入力点数】12(デジタル)
-    【コネクタ】USBマイクロB
-    【電源】5V (USBマイクロB)
-    【使用温度】0 ～ 40℃（結露なきこと）
-    【保証期間】 1年間
-    【付属品】保証書 1部
-    【生産国】Made in Japan
+【搭載マイコン】Pro micro互換_ATmega32U4 5V/16MHz  
+【搭載モータドライバ】DRV8832互換×2  
+【外部インターフェース】USB MicroB  
+【周辺機能】超音波センサー(測定距離2-400cm)、ブザー(自己発振ではない)、LEDx2、半固定抵抗、タクトスイッチx2  
+【電源】単三アルカリ電池x3 （電池は付属していません）  
+【プログラミング環境】Arduino IDE(対応OS Windows,MAC OS,他)  
+【駆動部】DC3V_30RPMモータx2  
+【本体重量】---  
+【本体サイズ】約W84×H45×D114mm  
+【付属品】17mmスペーサx2、12mmスペーサx4、M2*5ネジ×16、ギヤボックスx2、  
+基板×2、アクリルガード、USB通信ケーブル1.5m、説明書  
+【別途必要物】プラスドライバー    
+【使用温度】 0 ～ 40℃（結露なきこと）  
