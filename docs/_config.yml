@@ -8,6 +8,7 @@ locale                   : "ja-JP"
 title                    : "KTR-1 WEB教材"
 description              : "arduinoロボット制御入門ロボットKTR-1のWEB教材です。"
 logo                     : https://raw.githubusercontent.com/bit-trade-one/ADCRKTR1-KTR-1/master/docs/assets/img/logo.png
-twitter_username         : https://twitter.com/BitTradeOne
+twitter:
+  username               : https://twitter.com/BitTradeOne
 subtitle                 : "Version 0.1"
 repository               : "bit-trade-one/ADCRKTR1-KTR-1"
