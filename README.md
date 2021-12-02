@@ -50,7 +50,7 @@ exp.
 
 # [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
 
-## [WEB教材](https://bit-trade-one.github.io/ADCRKTR1-KTR-1/)
+## [WEB教材](https://sites.google.com/view/ktr-1web/0-%E3%83%88%E3%83%83%E3%83%97)
 
 ## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
