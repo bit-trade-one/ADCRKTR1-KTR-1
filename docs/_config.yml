@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
+
+header:
+  teaser: https://raw.githubusercontent.com/bit-trade-one/ADCRKTR1-KTR-1/master/docs/assets/img/BTOlogo.jpg
 # Site Settings
 minimal_mistakes_skin    : "air"
 locale                   : "ja-JP"  
