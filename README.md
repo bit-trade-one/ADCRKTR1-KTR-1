@@ -66,7 +66,7 @@ exp.
 
 ### [回路図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/Schematics/KTR-1%E5%9B%9E%E8%B7%AF%E5%9B%B3V1.1.pdf)
 
-### [寸法図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/tree/master/Dimensions)
+### [寸法図・3Dデータ](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/tree/master/Dimensions)
 
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
 
