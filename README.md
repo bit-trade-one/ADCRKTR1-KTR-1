@@ -58,10 +58,6 @@ exp.
 
 ## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
 
-### [ライブラリ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
-
-### [サンプルコード](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
-
 ### [基板図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/Schematics/KTR-1%E5%9F%BA%E6%9D%BF%E5%9B%B3V1.1.pdf)
 
 ### [回路図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/Schematics/KTR-1%E5%9B%9E%E8%B7%AF%E5%9B%B3V1.1.pdf)
