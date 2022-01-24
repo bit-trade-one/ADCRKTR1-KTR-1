@@ -291,7 +291,7 @@ void loop() {
     noTone(BUZZ);
   }
 
-  //US-100テスト
+  //HC_SR04テスト
   if (HC_SR04_mm() < 100) {
     if (HC_SR04_test == false) {
       tone(BUZZ, 440, 50); delay(50);
