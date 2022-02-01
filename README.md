@@ -1,3 +1,4 @@
+[GitHubからのファイルダウンロード方法はこちらの記事でご確認ください。](https://www.google.co.jp/)https://bit-trade-one.co.jp/h2gh/
 # ADCRKTR1-KTR-1(工事中)
 
 
