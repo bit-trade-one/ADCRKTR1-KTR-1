@@ -57,13 +57,12 @@ void KTR_1_Coasting() {
 }
 int HC_SR04_mm() {
   float duration, distance;
-  int time_out = 8000;
   digitalWrite(Trig, LOW);
   delayMicroseconds(2);
   digitalWrite(Trig, HIGH);
   delayMicroseconds(10);
   digitalWrite(Trig, LOW);
-  duration = pulseIn(ECHO, HIGH, time_out);
+  duration = pulseIn(ECHO, HIGH);
   distance = (duration / 2) * 0.340;
   return (int)distance;
 
@@ -291,7 +290,7 @@ void loop() {
     noTone(BUZZ);
   }
 
-  //HC_SR04テスト
+  //US-100テスト
   if (HC_SR04_mm() < 100) {
     if (HC_SR04_test == false) {
       tone(BUZZ, 440, 50); delay(50);
