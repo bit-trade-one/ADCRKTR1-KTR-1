@@ -8,6 +8,6 @@ GNDとRSTピンをドライバーなどの導体でショートさせてくだ�
 ArduinoIDEから空のプログラムを書き込んでください。  
 失敗した場合GNDとRSTピンを導体でショートさせるところからやり直してください。   
   
-Sparkfunのトラブルシューティングも合わせて御覧ください。  
+【参考】Sparkfunのトラブルシューティングも合わせて御覧ください。  
 https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq
 
