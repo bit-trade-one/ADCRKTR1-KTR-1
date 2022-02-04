@@ -6,5 +6,8 @@ KTR-1本体よりPro Microを外してください。
 GNDとRSTピンをドライバーなどの導体でショートさせてください。  
 数秒COMポートが現れるのでそこを指定して  
 ArduinoIDEから空のプログラムを書き込んでください。  
-失敗した場合GNDとRSTピンを導体でショートさせるところからやり直してください。  
+失敗した場合GNDとRSTピンを導体でショートさせるところからやり直してください。   
+  
+Sparkfunのトラブルシューティングも合わせて御覧ください。  
+https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq
 
