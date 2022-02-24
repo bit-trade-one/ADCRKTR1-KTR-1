@@ -49,15 +49,17 @@ exp.
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
 
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
+# [製品HP](https://bit-trade-one.co.jp/adcrktr1/) 
 
 ## [WEB教材(BTOHPで作り直す)](https://sites.google.com/view/ktr-1web/0-%E3%83%88%E3%83%83%E3%83%97)
 
-## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
-## [arduinoスケッチ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+### [組み立て方](https://sites.google.com/view/ktr-1web/0-%E3%83%88%E3%83%83%E3%83%97)
 
 ## [Q&A](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/FAQ.md)
+
+## [付属紙pdf](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+
+## [arduinoスケッチ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
 
 ### [基板図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/Schematics/KTR-1%E5%9F%BA%E6%9D%BF%E5%9B%B3V1.1.pdf)
 
