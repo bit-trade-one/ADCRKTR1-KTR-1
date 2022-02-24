@@ -47,16 +47,13 @@ exp.
 ソフトの使い方、ライブラリの使い方などがWordなどである場合は、
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
-
-# [製品HP](https://bit-trade-one.co.jp/adcrktr1/) 
-
 ## [WEB教材(BTOHPで作り直す)](https://sites.google.com/view/ktr-1web/0-%E3%83%88%E3%83%83%E3%83%97)
 
 ### [組み立て方](https://sites.google.com/view/ktr-1web/0-%E3%83%88%E3%83%83%E3%83%97)
 
 ## [Q&A](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/FAQ.md)
 
-## [付属紙pdf](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+### [製品HP](https://bit-trade-one.co.jp/adcrktr1/) 
 
 ## [arduinoスケッチ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
 
@@ -67,6 +64,8 @@ exp.
 ### [寸法図・3Dデータ](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/tree/master/Dimensions)
 
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
+
+### [付属紙pdf](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
 <!--
 ## 作例
