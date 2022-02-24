@@ -5,7 +5,6 @@
 
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/%E3%83%90%E3%83%8A%E3%83%BC%E5%A4%A7.jpg" width="720px">
 
-初心者でも迷わせない！  
 Arduino制御入門用ロボットキット 「KTR-1」のサポートページです。  
 
 <!--
