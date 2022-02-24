@@ -1,6 +1,6 @@
 # ADCRKTR1-KTR-1 よくある質問
 
-## Q.Win10でKTR-1とAeduinoIDEで通信できなくなってしまいました。
+## Q.Win10でKTR-1とArduinoIDEで通信できなくなってしまいました。
 ### A.下記に直す手順を示します。
 KTR-1本体よりPro Microを外してください。  
 GNDとRSTピンをドライバーなどの導体でショートさせてください。  
