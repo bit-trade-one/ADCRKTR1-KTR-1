@@ -47,21 +47,21 @@ exp.
 ソフトの使い方、ライブラリの使い方などがWordなどである場合は、
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
-## [WEB教材(BTOHPで作り直す)](https://sites.google.com/view/ktr-1web/0-%E3%83%88%E3%83%83%E3%83%97)
+# [WEB教材(BTOHPで作り直す)](https://sites.google.com/view/ktr-1web/0-%E3%83%88%E3%83%83%E3%83%97)
 
-### [組み立て方](https://sites.google.com/view/ktr-1web/0-%E3%83%88%E3%83%83%E3%83%97)
+## [組み立て方](https://sites.google.com/view/ktr-1web/0-%E3%83%88%E3%83%83%E3%83%97)
 
 ## [Q&A](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/FAQ.md)
 
 ### [製品HP](https://bit-trade-one.co.jp/adcrktr1/) 
 
-## [arduinoスケッチ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
-
-### [基板図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/Schematics/KTR-1%E5%9F%BA%E6%9D%BF%E5%9B%B3V1.1.pdf)
+### [arduinoスケッチ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
 
 ### [回路図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/Schematics/KTR-1%E5%9B%9E%E8%B7%AF%E5%9B%B3V1.1.pdf)
 
 ### [寸法図・3Dデータ](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/tree/master/Dimensions)
+
+### [基板図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/Schematics/KTR-1%E5%9F%BA%E6%9D%BF%E5%9B%B3V1.1.pdf)
 
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
 
