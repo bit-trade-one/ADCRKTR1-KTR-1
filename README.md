@@ -80,7 +80,6 @@ exp.
 [Pc Watch]()
 -->
 ## 製品仕様
-基本仕様  
 【搭載マイコン】Pro micro互換_ATmega32U4 5V/16MHz  
 【搭載モータドライバ】DRV8832互換×2  
 【外部インターフェース】USB MicroB  
