@@ -1,6 +1,5 @@
 #### [GitHubの使い方はこちらの記事でご確認ください。](https://bit-trade-one.co.jp/h2gh/)
-# ADCRKTR1-KTR-1(工事中)
-
+# ADCRKTR1-KTR-1
 
 
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/%E3%83%90%E3%83%8A%E3%83%BC%E5%A4%A7.jpg" width="720px">
