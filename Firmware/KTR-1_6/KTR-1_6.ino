@@ -104,7 +104,7 @@ void loop() {
   //プッシュボタン値の状態を読み取ります
 
 
-  //押しボタンが押されているかどうかを確認します。 押されている場合、buttonStateはHIGHです。
+  //押しボタンが押されているかどうかを確認します。 押されている場合、SW1はHIGHです。
   if (digitalRead(SW1) == HIGH) {
     digitalWrite(LED1, HIGH);
     KTR_1_straight();
