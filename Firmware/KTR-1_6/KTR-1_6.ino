@@ -146,7 +146,6 @@ void loop() {
 
           if (Turn_left_Distance >= Turn_right_Distance) {//90度横左のほうが遠かったら
             KTR_1_Turn_left(); delay(Turn_90);
-
             KTR_1_brake(); delay(500);
 
             while (true) { //壁の縁調査開始
@@ -169,7 +168,6 @@ void loop() {
 
           } else {//90度横右のほうが遠かったら
             KTR_1_Turn_right(); delay(Turn_90);
-
             KTR_1_brake(); delay(500);
 
             while (true) { //壁の縁調査
