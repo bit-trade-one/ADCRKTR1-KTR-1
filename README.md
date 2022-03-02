@@ -49,7 +49,7 @@ exp.
 -->
 # [WEB教材](https://sites.google.com/view/ktr-1-webstudy/%E3%83%88%E3%83%83%E3%83%97)
 
-## [組み立て方](https://sites.google.com/view/ktr-1-webstudy/0-%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6?authuser=0)
+### [組み立て方](https://sites.google.com/view/ktr-1-webstudy/0-%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6?authuser=0)
 
 ## [Q&A](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/FAQ.md)
 
