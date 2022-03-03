@@ -63,9 +63,7 @@ exp.
 
 ### [基板図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/Schematics/KTR-1%E5%9F%BA%E6%9D%BF%E5%9B%B3V1.1.pdf)
 
-### [部品表(後日公開)]( )
-
-### [付属紙pdf(後日公開)]( )
+### [付属紙組み立て図](https://github.com/bit-trade-one/ADCRKTR1-KTR-1/blob/master/Assembly/%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E5%9B%B3.png)
 
 <!--
 ## 作例
