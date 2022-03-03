@@ -1,4 +1,4 @@
-#### [GitHubの使い方はこちらの記事でご確認ください。](https://bit-trade-one.co.jp/h2gh/)
+#### [GitHubの使い方はこちらの記事をご確認ください。](https://bit-trade-one.co.jp/h2gh/)
 # ADCRKTR1-KTR-1
 
 
